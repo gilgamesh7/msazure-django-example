@@ -1,0 +1,1 @@
+# msazure-django-example
